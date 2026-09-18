@@ -1,0 +1,3 @@
+interface:
+  display_name: "AI FDE Feasibility"
+  short_description: "显式调用后，判断客户AI需求真实可行性、技术难度与人工边界"
